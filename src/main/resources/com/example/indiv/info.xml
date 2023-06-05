@@ -1,0 +1,326 @@
+<week>
+    <weekday day="monday">
+        <schedule>
+            <subject>
+                <time>8:00 - 9:35</time>
+                <subjectName>Math</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>9:50 - 11:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>11:55 - 13:30</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>13:45 - 15:20</time>
+                <subjectName/>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>15:50 - 17:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>17:40 - 19:15</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>19:30 - 21:00</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+        </schedule>
+        <events>
+            
+        </events>
+    </weekday>
+
+
+    <weekday day="tuesday">
+        <schedule>
+            <subject>
+                <time>8:00 - 9:35</time>
+                <subjectName/>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>9:50 - 11:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>11:55 - 13:30</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>13:45 - 15:20</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>15:50 - 17:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>17:40 - 19:15</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>19:30 - 21:00</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+        </schedule>
+        <events>
+            
+        </events>
+    </weekday>
+
+
+    <weekday day="wednesday">
+        <schedule>
+            <subject>
+                <time>8:00 - 9:35</time>
+                <subjectName/>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>9:50 - 11:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>11:55 - 13:30</time>
+                <subjectName/>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>13:45 - 15:20</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>15:50 - 17:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>17:40 - 19:15</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>19:30 - 21:00</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+        </schedule>
+        <events>
+            <event>
+                <time>-</time>
+                <eventName>-</eventName>
+                <place>-</place>
+                <notes>-</notes>
+            </event>
+        </events>
+    </weekday>
+
+
+    <weekday day="thursday">
+        <schedule>
+            <subject>
+                <time>8:00 - 9:35</time>
+                <subjectName/>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>9:50 - 11:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>11:55 - 13:30</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>13:45 - 15:20</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>15:50 - 17:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>17:40 - 19:15</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>19:30 - 21:00</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+        </schedule>
+        <events>
+            <event>
+                <time>-</time>
+                <eventName>-</eventName>
+                <place>-</place>
+                <notes>-</notes>
+            </event>
+        </events>
+    </weekday>
+
+
+    <weekday day="friday">
+        <schedule>
+            <subject>
+                <time>8:00 - 9:35</time>
+                <subjectName/>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>9:50 - 11:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>11:55 - 13:30</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>13:45 - 15:20</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>15:50 - 17:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>17:40 - 19:15</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>19:30 - 21:00</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+        </schedule>
+        <events>
+            <event>
+                <time>-</time>
+                <eventName>-</eventName>
+                <place>-</place>
+                <notes>-</notes>
+            </event>
+        </events>
+    </weekday>
+
+
+    <weekday day="saturday">
+        <schedule>
+            <subject>
+                <time>8:00 - 9:35</time>
+                <subjectName/>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>9:50 - 11:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>11:55 - 13:30</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>13:45 - 15:20</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>15:50 - 17:25</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>17:40 - 19:15</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+            <subject>
+                <time>19:30 - 21:00</time>
+                <subjectName>-</subjectName>
+                <roomNumber>0</roomNumber>
+                <notes>-</notes>
+            </subject>
+        </schedule>
+        <events>
+            <event>
+                <time>-</time>
+                <eventName>-</eventName>
+                <place>-</place>
+                <notes>-</notes>
+            </event>
+        </events>
+    </weekday>
+</week>

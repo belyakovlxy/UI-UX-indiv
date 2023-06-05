@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="682.0" prefWidth="1200.0" style="-fx-min-width: 1200;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.indiv.WeekdayController">
+    <children>
+      <VBox prefHeight="200.0" prefWidth="100.0">
+         <children>
+             <HBox prefHeight="100.0" prefWidth="200.0" style="-fx-spacing: 10px; -fx-padding: 5px;">
+               <children>
+                  <Button id="mondayButton" mnemonicParsing="false" onAction="#changeWeekday" style="-fx-pref-width: 80px;" text="ПН">
+                     <font>
+                        <Font size="17.0" />
+                     </font></Button>
+                  <Button id="tuesdayButton" mnemonicParsing="false" onAction="#changeWeekday" style="-fx-pref-width: 80px;" text="ВТ">
+                     <font>
+                        <Font size="17.0" />
+                     </font></Button>
+                  <Button id="wednesdayButton" mnemonicParsing="false" onAction="#changeWeekday" style="-fx-pref-width: 80px;" text="СР">
+                     <font>
+                        <Font size="17.0" />
+                     </font></Button>
+                  <Button id="thursdayButton" mnemonicParsing="false" onAction="#changeWeekday" style="-fx-pref-width: 80px;" text="ЧТ">
+                     <font>
+                        <Font size="17.0" />
+                     </font></Button>
+                  <Button id="fridayButton" mnemonicParsing="false" onAction="#changeWeekday" style="-fx-pref-width: 80px;" text="ПТ">
+                     <font>
+                        <Font size="17.0" />
+                     </font></Button>
+                  <Button id="saturdayButton" mnemonicParsing="false" onAction="#changeWeekday" style="-fx-pref-width: 80px;" text="СБ">
+                     <font>
+                        <Font size="17.0" />
+                     </font></Button>
+               </children></HBox>
+
+             <Label fx:id="weekday" style="-fx-padding: 10px;" text="кук">
+                 <font>
+                     <Font name="System Bold" size="25.0" />
+                 </font></Label>
+
+             <Label fx:id="labelSchedule" style="-fx-padding: 10px;" text="Расписание">
+               <font>
+                  <Font size="25.0" />
+               </font></Label>
+
+             <TableView fx:id="scheduleTable" onMouseClicked="#rowSubjectClicked" prefHeight="402.0" prefWidth="1200.0" style="-fx-min-width: 1200; -fx-padding: 5px;">
+                 <columns>
+                     <TableColumn fx:id="scheduleTime" prefWidth="75.0" text="Время" />
+                     <TableColumn fx:id="subjectName" prefWidth="226.0" text="Предмет" />
+                     <TableColumn fx:id="roomNumber" minWidth="0.0" prefWidth="110.0" text="Кабинет" />
+                     <TableColumn fx:id="scheduleNotes" prefWidth="782.0" text="Заметки" />
+                 </columns>
+             </TableView>
+
+             <Label fx:id="labelEvents" style="-fx-padding: 10px;" text="Мероприятия">
+                 <font>
+                     <Font size="25.0" />
+                 </font></Label>
+
+             <TableView fx:id="eventsTable" onMouseClicked="#rowEventClicked" prefHeight="402.0" prefWidth="1200.0" style="-fx-min-width: 1200; -fx-padding: 5px;">
+                 <columns>
+                     <TableColumn fx:id="eventTime" prefWidth="75.0" text="Время" />
+                     <TableColumn fx:id="eventName" prefWidth="245.0" text="Мероприятие" />
+                     <TableColumn fx:id="place" minWidth="0.0" prefWidth="323.0" text="Место" />
+                     <TableColumn fx:id="eventNotes" prefWidth="553.0" text="Заметки" />
+                 </columns>
+             </TableView>
+            <HBox prefHeight="100.0" prefWidth="200.0" style="-fx-spacing: 10px; -fx-padding: 5px;">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#addEvent" style="-fx-pref-width: 80px;" text="Добавить" />
+                  <Button mnemonicParsing="false" onAction="#deleteEvent" style="-fx-pref-width: 80px;" text="Удалить" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+
+    </children>
+</AnchorPane>
